@@ -1,0 +1,15 @@
+{
+    "name": "sandra/autoload-challenge",
+    "description": "quete autoload",
+    "authors": [
+        {
+            "name": "Sandra-Louchart",
+            "email": "sandra.louchart@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "src/"}
+    },
+    "require": {}
+}
