@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Acme\\": "src/"}
+            "App\\": "src/"}
     },
     "require": {}
 }
